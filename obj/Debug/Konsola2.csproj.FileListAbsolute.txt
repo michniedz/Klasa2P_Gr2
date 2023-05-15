@@ -1,0 +1,8 @@
+C:\Klasa 2P\Grupa 2\Konsola2\bin\Debug\Konsola2.exe.config
+C:\Klasa 2P\Grupa 2\Konsola2\bin\Debug\Konsola2.exe
+C:\Klasa 2P\Grupa 2\Konsola2\bin\Debug\Konsola2.pdb
+C:\Klasa 2P\Grupa 2\Konsola2\obj\Debug\Konsola2.csproj.AssemblyReference.cache
+C:\Klasa 2P\Grupa 2\Konsola2\obj\Debug\Konsola2.csproj.SuggestedBindingRedirects.cache
+C:\Klasa 2P\Grupa 2\Konsola2\obj\Debug\Konsola2.csproj.CoreCompileInputs.cache
+C:\Klasa 2P\Grupa 2\Konsola2\obj\Debug\Konsola2.exe
+C:\Klasa 2P\Grupa 2\Konsola2\obj\Debug\Konsola2.pdb
